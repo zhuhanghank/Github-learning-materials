@@ -1,0 +1,4 @@
+1. 登录GitHub搜索需要copy的用户名和repository （例如搜索：“zhuhanghank/Github-learning-materials"）
+2. 点击右上角fork, copy他人的repository到自己的GitHub上，之后可以在GitHub上进行修改
+3. 点击Pull requests, 然后点击New pull request
+4. 点击create pull request 之后就会把修改的内容同步到原用户上

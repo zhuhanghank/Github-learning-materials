@@ -1,0 +1,3 @@
+1. 刷新页面， 在Pull request中发现有一个请求， 点击进去
+2. 点击update的文件，可以查看他人做了哪些修改
+3. 同意修改， 点击merge request。点击confirm merge。修改成功

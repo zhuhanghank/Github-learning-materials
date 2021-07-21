@@ -10,3 +10,7 @@
 7. git remote add origin XXXXX(XXXX为GitHub的https地址)
 8. 可以进入本地 创建文件
 9. 输入 git status  可以查看本地发生了哪些变化
+10. git add github-init.txt (添加github-init.txt     若想添加所有文件，add *)
+11. git commit -m 'first' (' '里面是注释)
+12. 经过10和11后， 命令在本地电脑生效， 但没有推送到远端。
+13. git push -u origin master 将本地修改推送到远端
