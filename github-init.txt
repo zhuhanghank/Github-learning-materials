@@ -1,0 +1,12 @@
+前提： 本地已安装git
+1. 先在GitHub网站创建一个repository
+2. 在本地新建一个文件夹， copy文件夹位置
+3. 打开终端 cd 到 当前文件夹
+4. 进行配置
+    git config --global user.name 'ZH'  (ZH是随便取得名字可以改变)
+    git config --global user.email 'zhuhang19920207@163.com' (邮箱可以不相同)
+5. git config --l  这个命令可以查看GitHub的配置情况
+6. git init  将github的repository初始化为空
+7. git remote add origin XXXXX(XXXX为GitHub的https地址)
+8. 可以进入本地 创建文件
+9. 输入 git status  可以查看本地发生了哪些变化
