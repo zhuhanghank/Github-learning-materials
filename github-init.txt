@@ -16,5 +16,4 @@
 11. git commit -m 'first' (' '里面是注释)
 12. 经过10和11后， 命令在本地电脑生效， 但没有推送到远端。
 13. git push -u origin master 将本地修改推送到远端
-=======
->>>>>>> origin/master
+
