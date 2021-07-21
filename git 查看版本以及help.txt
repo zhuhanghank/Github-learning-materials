@@ -1,0 +1,6 @@
+1. git version   (git查看当前版本号)
+2. git config --help   或者   git help config  这两条命令可以查看git的操作
+3. git config -l 查看系统设置
+4. git的邮箱地址，用户名可以改变
+5. git config --global color.ui true   （git 颜色高亮显示）
+6. git log 查看日志  退出直接按q

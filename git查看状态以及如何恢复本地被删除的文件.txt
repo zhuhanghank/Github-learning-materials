@@ -1,0 +1,16 @@
+git status 查看状态
+
+
+
+恢复上一个版本的文件,恢复改错的文件
+git checkout -- 【文件名】
+
+当文件已经放入索引区， 恢复文件   （git add [文件名]  提交文件到索引区）
+git reset HEAD [文件名]
+git checkout -- [文件名]
+
+
+恢复误删的文件
+1. git status 查看本地对改动的暂存记录
+2. git reset Head [被删除的文件或文件夹]
+3. git checkout [被删除的文件或文件夹]

@@ -1,0 +1,5 @@
+1. git log (可以查看所有人的操作)
+2. git log --oneline (一行显示) 常用
+3. git log -p (详细显示)
+4. git log --stat (查看状态)
+5. git log --help
