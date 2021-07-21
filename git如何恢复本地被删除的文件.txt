@@ -1,0 +1,3 @@
+1. git status 查看本地对改动的暂存记录
+2. git reset Head [被删除的文件或文件夹]
+3. git checkout [被删除的文件或文件夹]
