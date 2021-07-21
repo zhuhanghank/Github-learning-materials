@@ -1,0 +1,2 @@
+1. git fetch origin
+2. git push -u origin master 
